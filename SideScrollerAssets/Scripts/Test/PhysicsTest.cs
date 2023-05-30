@@ -9,6 +9,7 @@ public class PhysicsTest : MonoBehaviour
     private void FixedUpdate()
     {
         rb = GetComponent<Rigidbody2D>();
+        //rb = GetComponent<Rigidbody2D>();
         //Rigidbody2D rb = GetComponent<Rigidbody2D>();
         rb.velocity = new Vector3(1, rb.velocity.y);
 
