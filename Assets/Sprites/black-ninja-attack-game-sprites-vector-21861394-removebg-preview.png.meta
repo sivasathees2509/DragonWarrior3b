@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 6e5990b0abfd05040bd80c0b0f4d569f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 202
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc341c413263ab4fa6b6c9748b0040d
+      internalID: 724358444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 203
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736989e95fda9574d80703a447a2cbd1
+      internalID: 1794180315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 203
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4329a8201ccd8a46beada3278b2f837
+      internalID: 721123494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 202
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0f80f902c601449601b10888057df
+      internalID: -238323731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 202
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6fe2f2b015ebd46a518ee8bce83d40
+      internalID: 1292756329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 201
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44a6b148383c547a8b3a612cf581f2
+      internalID: -465377292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 202
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0207e88b89574c8513e7123602260
+      internalID: -207178840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6eb5d4e71f59546bef30b2135da7f1
+      internalID: 199301886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 146
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c65133111b05c4384d34cc88c806f5
+      internalID: 1206561308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 147
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f883c7f67154438cec174e797b7f5
+      internalID: 1867472850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97673849b0580d74cad727c2cf7c1a7e
+      internalID: 795350734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 146
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a02f2fb43b259640a42c224b95744b2
+      internalID: -600111310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 145
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ed9eb84fd493a4d9ed9b31f7112394
+      internalID: -103286489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffdcd75b4111814698fdcd1a5f93c32
+      internalID: -1726598822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9fe86451280c3478cdbb6db9acce77
+      internalID: -139977404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886da8c19b7294a40933dcb398396632
+      internalID: -1354833760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5548409eb21bed46a73668719d17772
+      internalID: -1108270771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4610775f073fca45bf986c3675d9f3a
+      internalID: -221524089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 75
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83c1e9a34465974bafb5e7339c19077
+      internalID: -2122364506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 76
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27364b1cb2d744585b5bd307554844
+      internalID: 1104555708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 75
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63446c7a4b98a0a499b95618b17d78cb
+      internalID: -37226300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad96e7a97f785a4ea052e3ae30d1461
+      internalID: -1808350088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c7a51023e2614dbc2ab406f57bac0
+      internalID: 121063191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65014a3f4d68c6d4ab44c6214a79e1da
+      internalID: 172606972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 19
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f12a267bc04af4198e3f1d99e888c2
+      internalID: -595678062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee5286282aeb2499888e8b0cfb4650
+      internalID: 1026631134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 6
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8bdfa74ed515d4d9bb423ccdf962f0
+      internalID: 442437734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black-ninja-attack-game-sprites-vector-21861394-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 6
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241d6711c218c8459c958f8d1680c26
+      internalID: 681956676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_18: -2122364506
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_11: -600111310
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_27: 681956676
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_6: -207178840
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_22: 121063191
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_2: 721123494
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_5: -465377292
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_12: -103286489
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_25: 1026631134
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_16: -1108270771
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_24: -595678062
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_14: -139977404
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_15: -1354833760
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_19: 1104555708
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_7: 199301886
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_8: 1206561308
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_4: 1292756329
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_9: 1867472850
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_0: 724358444
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_20: -37226300
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_10: 795350734
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_23: 172606972
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_1: 1794180315
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_21: -1808350088
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_17: -221524089
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_3: -238323731
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_13: -1726598822
+      black-ninja-attack-game-sprites-vector-21861394-removebg-preview_26: 442437734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1610 @@
+fileFormatVersion: 2
+guid: 55c08d62d671c8248893439eb15677da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 339
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10327274cd3c0c242a373941463b38f5
+      internalID: -32446505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 339
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3859377f22ba53043852dfca0f2795db
+      internalID: -950582358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 339
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9543c99fed6024094c41197b2e7443
+      internalID: -1422059039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 339
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060ff40bdbfe98a4081a4fa329f7d6ac
+      internalID: 423779191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 340
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf6e6f4c5e36284c8b1a79369945269
+      internalID: 452352204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 340
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51112e12cc18e3d44b985f5d452afbb3
+      internalID: 197691901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 340
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425f8b715210474d9ed9ea35ae76b4a
+      internalID: 443481701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 340
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aeeb911c0fb574b936881a09700be8
+      internalID: -1171968736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 340
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f892dc1c29b194a9973b5c6bc47e9d
+      internalID: -1250741582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 340
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb5e5b856de5d64baa76c126d6dc9f7
+      internalID: -621691975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 340
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405bfa8bdb1c0a44ab2418e826348220
+      internalID: -698101151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 279
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7fc33a985eeac4890a4d57188a2a5b
+      internalID: -1862983548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 279
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f45a7b3b5da247b2179f78f81359a
+      internalID: 962721574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 279
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640dc3541be424419b3cccb2da6cf26
+      internalID: 282345713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 281
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f41ecf3ef77c34990392b5278e9332
+      internalID: 577969983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 281
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d153e70932c394a8987ac3b7b9fcfb
+      internalID: -2022883256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 281
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b99274bcfb064fa7787bcb0049154
+      internalID: -723817923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 281
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee8e3aa6cbd8014199a659909cb8844
+      internalID: 996628245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 281
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f87f4cfb1eabb4bbb175391d9a6666
+      internalID: 449858438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 281
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1b86d9b2096142b9ab2c29473c878
+      internalID: 1361198184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 281
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5829ca0c98fe294dbbcbb04661824ad
+      internalID: -661697344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 226
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71722aafd49d14fb129a5d5821ee27
+      internalID: 694251802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 229
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce91133d27fbe594da28211952990978
+      internalID: -1520217478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 229
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba31b943badb540860183a09c92330
+      internalID: 1547897609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 228
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe0072bc55bc5e4a86a689078a8e29d
+      internalID: -1032857888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 230
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4414f30e1ea84ebc70bb4d31f1655
+      internalID: -1595659975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 231
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f4f7fe40d2be7438c36e2970e402e0
+      internalID: -1061816170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 232
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7148496f2d24384aa8f213bcaaff1d0
+      internalID: -1231836901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 231
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8249b2fa804eb84fb2f699b11692b52
+      internalID: 1948785171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 231
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838744f85164a3479455faf82864979
+      internalID: -1837259254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 229
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e0eaf3d01fdc44af1af970d70cef8
+      internalID: 960284688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 167
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9675b701bc89846b9fef4b73638275
+      internalID: -823086038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 167
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3202603476a314883592d27b2fe748
+      internalID: 1452341807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 167
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777209e2a81b1e4dbe809390e9c2b7e
+      internalID: -225256713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 179
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe99dffd10ecf48968b6c189c330fa
+      internalID: -2004525364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 179
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f8f893f0105b4c85c71904038a605
+      internalID: -1956476334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 179
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19798aa2cb31e4ea9be0a8a1f7aaa5
+      internalID: -1938633521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 179
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a8de794b9f56049a97b5e7547a325e
+      internalID: -1745933489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 179
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1bfe4b9563e8b4196fd7e48c24bc90
+      internalID: -964683750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 179
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d878267f1986547967f7ddd06678fe
+      internalID: 1267073957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 179
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6e615a66db9b145a274df7b5e4b473
+      internalID: -1158245829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 112
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78154e631b49df4428181eb40a818916
+      internalID: -30337728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 111
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d8062173167f34d9b8b9420e2c79b6
+      internalID: -269036098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 111
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b6e2c70ba1a84cb8b20c45206889c
+      internalID: -1060142833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 111
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c452e62b256a94d81511d5fba014b5
+      internalID: -846004921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 111
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42480ad540f493d41a24d4be6a850ce5
+      internalID: 612521819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 125
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da8390b5a803f44938a69105874047
+      internalID: 270623913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 111
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8388a52b41519449b312fdbf8285637
+      internalID: 18247077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 123
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734cdf7879583ed489e18e2979cd06b3
+      internalID: -84171085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 111
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986663be45a2d94e86844f544293ff6
+      internalID: -917076057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c3fe10834e8fa429f659c5fb004e1a
+      internalID: 1385115035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f071fc9ce0774a4a80c25bb1863d354
+      internalID: -1762730629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 109
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8049010a5dd2e4e8e6f47a8fa3a7ce
+      internalID: 1884830499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 109
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d93c9ff9168ae4a9e03c7e79630a28
+      internalID: 1347021412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 109
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b595012eb312249bdf357af9dec25c
+      internalID: -977861224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 109
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19935ded4f4eb43a3287653891d1a7
+      internalID: 430182748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 46
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb17bdcdbd2f96408d50162d1f19550
+      internalID: 919721594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b45a7d37e56b49911498505853e33
+      internalID: -462889210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 46
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3bf60414538414e820ba5cd8bf7d87
+      internalID: -1635281298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 46
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62293355ed703cf41b126baa51946819
+      internalID: 1691800152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 47
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c0d04dca63284686c02dfa2acedf7
+      internalID: 1191808968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985102ff136f6cc46bfe1e4e0f280435
+      internalID: -1897632470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 48
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4292d1e0136fe47aeb0b27f05d3baf
+      internalID: 1423823641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 47
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f420a9f67ca6a946b9f43140e6d31a4
+      internalID: 1424331430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 48
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd2de82ff4cfd48987a27d6559a914
+      internalID: 305432682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 48
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c92af18968e3438bd45194102cc98
+      internalID: -1677369334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_dragon_sprites-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 47
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe825f7a0c024014a9e48fc195497536
+      internalID: -829204064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1_dragon_sprites-removebg-preview_25: -1595659975
+      1_dragon_sprites-removebg-preview_53: 1347021412
+      1_dragon_sprites-removebg-preview_4: 452352204
+      1_dragon_sprites-removebg-preview_8: -1250741582
+      1_dragon_sprites-removebg-preview_24: -1032857888
+      1_dragon_sprites-removebg-preview_30: 960284688
+      1_dragon_sprites-removebg-preview_58: -1635281298
+      1_dragon_sprites-removebg-preview_7: -1171968736
+      1_dragon_sprites-removebg-preview_35: -1956476334
+      1_dragon_sprites-removebg-preview_6: 443481701
+      1_dragon_sprites-removebg-preview_23: 1547897609
+      1_dragon_sprites-removebg-preview_5: 197691901
+      1_dragon_sprites-removebg-preview_43: -1060142833
+      1_dragon_sprites-removebg-preview_26: -1061816170
+      1_dragon_sprites-removebg-preview_33: -225256713
+      1_dragon_sprites-removebg-preview_17: 996628245
+      1_dragon_sprites-removebg-preview_63: 1424331430
+      1_dragon_sprites-removebg-preview_37: -1745933489
+      1_dragon_sprites-removebg-preview_47: 18247077
+      1_dragon_sprites-removebg-preview_20: -661697344
+      1_dragon_sprites-removebg-preview_11: -1862983548
+      1_dragon_sprites-removebg-preview_0: -32446505
+      1_dragon_sprites-removebg-preview_14: 577969983
+      1_dragon_sprites-removebg-preview_13: 282345713
+      1_dragon_sprites-removebg-preview_27: -1231836901
+      1_dragon_sprites-removebg-preview_36: -1938633521
+      1_dragon_sprites-removebg-preview_3: 423779191
+      1_dragon_sprites-removebg-preview_38: -964683750
+      1_dragon_sprites-removebg-preview_60: 1191808968
+      1_dragon_sprites-removebg-preview_34: -2004525364
+      1_dragon_sprites-removebg-preview_15: -2022883256
+      1_dragon_sprites-removebg-preview_40: -1158245829
+      1_dragon_sprites-removebg-preview_41: -30337728
+      1_dragon_sprites-removebg-preview_59: 1691800152
+      1_dragon_sprites-removebg-preview_1: -950582358
+      1_dragon_sprites-removebg-preview_61: -1897632470
+      1_dragon_sprites-removebg-preview_62: 1423823641
+      1_dragon_sprites-removebg-preview_29: -1837259254
+      1_dragon_sprites-removebg-preview_18: 449858438
+      1_dragon_sprites-removebg-preview_65: -1677369334
+      1_dragon_sprites-removebg-preview_42: -269036098
+      1_dragon_sprites-removebg-preview_55: 430182748
+      1_dragon_sprites-removebg-preview_31: -823086038
+      1_dragon_sprites-removebg-preview_56: 919721594
+      1_dragon_sprites-removebg-preview_51: -1762730629
+      1_dragon_sprites-removebg-preview_45: 612521819
+      1_dragon_sprites-removebg-preview_48: -84171085
+      1_dragon_sprites-removebg-preview_57: -462889210
+      1_dragon_sprites-removebg-preview_39: 1267073957
+      1_dragon_sprites-removebg-preview_16: -723817923
+      1_dragon_sprites-removebg-preview_10: -698101151
+      1_dragon_sprites-removebg-preview_52: 1884830499
+      1_dragon_sprites-removebg-preview_22: -1520217478
+      1_dragon_sprites-removebg-preview_44: -846004921
+      1_dragon_sprites-removebg-preview_66: -829204064
+      1_dragon_sprites-removebg-preview_28: 1948785171
+      1_dragon_sprites-removebg-preview_64: 305432682
+      1_dragon_sprites-removebg-preview_21: 694251802
+      1_dragon_sprites-removebg-preview_50: 1385115035
+      1_dragon_sprites-removebg-preview_54: -977861224
+      1_dragon_sprites-removebg-preview_19: 1361198184
+      1_dragon_sprites-removebg-preview_32: 1452341807
+      1_dragon_sprites-removebg-preview_46: 270623913
+      1_dragon_sprites-removebg-preview_49: -917076057
+      1_dragon_sprites-removebg-preview_2: -1422059039
+      1_dragon_sprites-removebg-preview_9: -621691975
+      1_dragon_sprites-removebg-preview_12: 962721574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
